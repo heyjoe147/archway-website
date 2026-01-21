@@ -2,6 +2,7 @@ backend:
   name: github
   repo: heyjoe147/archway-website
   branch: main
+  base_url: https://archway-decap-auth.josephegenco.workers.dev
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
