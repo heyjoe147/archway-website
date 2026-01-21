@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import home from '../content/home.md';
+const home = await import('../content/home.md');
 ---
 
 <Layout>
