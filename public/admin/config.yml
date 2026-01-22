@@ -6,6 +6,7 @@ backend:
   repo: heyjoe147/archway-website
   branch: main
   base_url: https://archway-decap-auth.josephegenco.workers.dev
+  auth_endpoint: auth
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
