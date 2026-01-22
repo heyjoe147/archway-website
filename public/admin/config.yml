@@ -1,3 +1,6 @@
+site_url: https://archway-website.pages.dev
+search: false
+
 backend:
   name: github
   repo: heyjoe147/archway-website
